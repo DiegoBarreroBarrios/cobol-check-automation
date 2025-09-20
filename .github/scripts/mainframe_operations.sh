@@ -11,7 +11,7 @@
  # Change to the cobolcheck directory
  cd cobolcheck
  echo "Changed to $(pwd)"
- ls-al
+ ls -al
  # Make cobolcheck executable
  chmod +x cobolcheck
  echo "Made cobolcheck executable"
